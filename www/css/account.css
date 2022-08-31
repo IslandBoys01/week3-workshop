@@ -1,0 +1,26 @@
+body {
+    background-image: url("../img/white.jpg");
+    background-attachment: fixed;
+  }
+
+#userForm {
+position: relative;
+top: 200px;
+    margin: auto;
+  width: 50%;
+  border: 3px outset lightblue;
+  padding: 10px;
+  text-align:center;
+
+}
+
+ /* h1{
+position: relative;
+left:880px;
+top: 200px;
+ } */
+
+ /* basic centering */
+ #position{
+  text-align: center;
+ }

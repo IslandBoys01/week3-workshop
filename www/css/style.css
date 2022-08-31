@@ -1,0 +1,32 @@
+/* sets background image */
+body {
+    background-image: url("../img/white.jpg");
+    background-attachment: fixed;
+  }
+
+#loginPage {
+position: relative;
+top: 200px;
+    margin: auto;
+  width: 50%;
+  border: 3px outset lightblue;
+  padding: 10px;
+  text-align:center;
+
+}
+
+ h1{
+position: relative;
+left:880px;
+top: 200px;
+ }
+
+ .success {
+  background-color: green;
+  padding: 1em;
+ }
+
+ .fail {
+  background-color: red;
+  padding: 1em;
+ }
